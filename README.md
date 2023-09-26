@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Арамиль 👋
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer и студент школы 21</h3>
+<h3 align="center">Начинающий Java разработчик</h3>
 
 ***
 
