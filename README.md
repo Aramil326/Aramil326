@@ -93,29 +93,47 @@
 
 ### Статистика
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aramil326&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aramil326&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aramil326&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aramil326&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aramil326&theme=solarized_dark)
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aramil326&theme=solarized_dark&#41;)
+
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aramil326&theme=solarized_dark&#41;)
+
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aramil326&theme=solarized_dark&#41;)
+
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aramil326&theme=solarized_dark&#41;)
+
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aramil326&theme=solarized_dark&#41;)
 
 ***
 
 # Pet-проекты
 
-### [Smart_Calculator_Java](https://github.com/Aramil326/Smart_Calculator_Java)
+### [Smart_Calculator_Java](https://github.com/Aramil326/Smart_Calculator_Java)  
+
+--- 
 ```
-Реализация десктопного кросплатформенного приложения SmartCalc v3.0 на языке Java.
+Реализация десктопного кроссплатформенного приложения SmartCalc v3.0 на языке Java.
 
 Стек: Java 8, JavaFX, JUnit, Log4j, Maven, Install4j
 Паттерны: MVC
 Краткое описание: инженерный калькулятор с возможностю отрисовки графиков, функцией депозитного 
 калькулятора, логированием и сохранением истории операций
 ```
-<img src="img/arrow.png" height="30">
 
-### [Smart calculator by java]()
-```
+<p align="center">
+  <img src="img/arrow.png" height="40px" >
+</p>
 
+### [Algorithmic_trading](https://github.com/Aramil326/Algorithmic_trading)  
+
+---
 ```
-<img src="img/arrow.png" height="30">
+Реализация проекта Algorithmic trading в виде десктопного приложения под MacOS на С++.
+
+Стек: С++, QT, QCustomPlot
+Паттерны: MVC, Facade, Singleton
+Краткое описание: с помощью алгоритмов интерполяции и апроксимации создан функционал отрисовки графиков поведения 
+котировок акций и прогнозирования их курсов для обозримого будущего на основе исторических данных 
+```
+<p align="center">
+  <img src="img/arrow.png" height="40px" >
+</p>
