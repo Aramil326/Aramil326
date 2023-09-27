@@ -109,7 +109,6 @@
 
 ## [Smart_Calculator_Java](https://github.com/Aramil326/Smart_Calculator_Java)  
 
---- 
 ```
 Реализация десктопного кроссплатформенного приложения SmartCalc v3.0 на языке Java.
 
@@ -125,7 +124,6 @@
 
 ## [Algorithmic_trading](https://github.com/Aramil326/Algorithmic_trading)  
 
----
 ```
 Реализация проекта Algorithmic trading в виде десктопного приложения под MacOS на С++.
 
