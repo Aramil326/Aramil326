@@ -107,7 +107,7 @@
 
 # Pet-проекты
 
-### [Smart_Calculator_Java](https://github.com/Aramil326/Smart_Calculator_Java)  
+## [Smart_Calculator_Java](https://github.com/Aramil326/Smart_Calculator_Java)  
 
 --- 
 ```
@@ -123,7 +123,7 @@
   <img src="img/arrow.png" height="40px" >
 </p>
 
-### [Algorithmic_trading](https://github.com/Aramil326/Algorithmic_trading)  
+## [Algorithmic_trading](https://github.com/Aramil326/Algorithmic_trading)  
 
 ---
 ```
