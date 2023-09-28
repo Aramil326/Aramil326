@@ -107,14 +107,15 @@
 
 # Pet-проекты
 
-## [Smart_Calculator_Java](https://github.com/Aramil326/Smart_Calculator_Java)  
+
+## [Smart Calculator Java](https://github.com/Aramil326/Smart_Calculator_Java)  
 
 ```
-Реализация десктопного кроссплатформенного приложения SmartCalc v3.0 на языке Java.
+Реализация десктопного кроссплатформенного приложения Smart Calculator на языке Java.
 
-Стек: Java 8, JavaFX, JUnit, Log4j, Maven, Install4j
-Паттерны: MVC
-Краткое описание: инженерный калькулятор с возможностю отрисовки графиков, функцией депозитного 
+- Стек: Java 8, JavaFX, JUnit, Log4j, Maven, Install4j
+- Паттерны: MVC
+- Краткое описание: инженерный калькулятор с возможностю отрисовки графиков, функцией депозитного 
 калькулятора, логированием и сохранением истории операций
 ```
 
@@ -122,14 +123,14 @@
   <img src="img/arrow.png" height="40px" >
 </p>
 
-## [Algorithmic_trading](https://github.com/Aramil326/Algorithmic_trading)  
+## [Algorithmic trading](https://github.com/Aramil326/Algorithmic_trading)  
 
 ```
 Реализация проекта Algorithmic trading в виде десктопного приложения под MacOS на С++.
 
-Стек: С++, QT, QCustomPlot
-Паттерны: MVC, Facade, Singleton
-Краткое описание: с помощью алгоритмов интерполяции и апроксимации создан функционал отрисовки графиков поведения 
+- Стек: С++, QT, QCustomPlot
+- Паттерны: MVC, Facade, Singleton
+- Краткое описание: с помощью алгоритмов интерполяции и апроксимации создан функционал отрисовки графиков поведения 
 котировок акций и прогнозирования их курсов для обозримого будущего на основе исторических данных 
 ```
 <p align="center">
