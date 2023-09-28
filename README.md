@@ -91,17 +91,22 @@
 
 ***
 
-### Статистика
+[//]: # (### Статистика)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aramil326&theme=solarized_dark)
+[//]: # ()
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aramil326&theme=solarized_dark&#41;)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aramil326&theme=solarized_dark)
+[//]: # ()
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aramil326&theme=solarized_dark&#41;)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aramil326&theme=solarized_dark)
+[//]: # ()
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aramil326&theme=solarized_dark&#41;)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aramil326&theme=solarized_dark)
+[//]: # ()
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aramil326&theme=solarized_dark&#41;)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aramil326&theme=solarized_dark)
+[//]: # ()
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aramil326&theme=solarized_dark&#41;)
 
 
 # Pet-проекты
