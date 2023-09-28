@@ -114,31 +114,4 @@
 | Java bootcamp         | 14-дневный интенсив по языку Java                                                     | Java 1.8, JUnit, Mockito, hsqldb, Maven, spring-jdbc, Reflection API, slf4j, spring-context, google-auto-service, threads, JAR, PostgreSQL, UUID, JDBC | SOLID (Single responsibility principle) | [Посмотреть проект](https://github.com/Aramil326/Java_bootcamp)         |
 
 
-##   
 
-```
-Реализация десктопного кроссплатформенного приложения Smart Calculator на языке Java.
-
-- Стек: Java 8, JavaFX, JUnit, Log4j, Maven, Install4j
-- Паттерны: MVC
-- Краткое описание: инженерный калькулятор с возможностю отрисовки графиков, функцией депозитного 
-калькулятора, логированием и сохранением истории операций
-```
-
-<p align="center">
-  <img src="img/arrow.png" height="40px" >
-</p>
-
-## [Algorithmic trading](https://github.com/Aramil326/Algorithmic_trading)  
-
-```
-Реализация проекта Algorithmic trading в виде десктопного приложения под MacOS на С++.
-
-- Стек: С++, QT, QCustomPlot
-- Паттерны: MVC, Facade, Singleton
-- Краткое описание: с помощью алгоритмов интерполяции и апроксимации создан функционал отрисовки графиков 
-поведения котировок акций и прогнозирования их курсов для обозримого будущего на основе исторических данных 
-```
-<p align="center">
-  <img src="img/arrow.png" height="40px" >
-</p>
