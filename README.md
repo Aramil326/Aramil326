@@ -103,7 +103,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aramil326&theme=solarized_dark)
 
-***
 
 # Pet-проекты
 
@@ -114,10 +113,10 @@
 | Java bootcamp         | 14-дневный интенсив по языку Java                                                     | Java 1.8, JUnit, Mockito, hsqldb, Maven, spring-jdbc, Reflection API, slf4j, spring-context, google-auto-service, threads, JAR, PostgreSQL, UUID, JDBC | SOLID (Single responsibility principle) | [Посмотреть проект](https://github.com/Aramil326/Java_bootcamp)         |
 
 ## C++
-| Название проектов | Описание | Стек | Паттерны | Ссылка |
-|-------------------|----------|------|----------|--------|
-|                   |          |      |          |        |
-|                   |          |      |          |        |
-|                   |          |      |          |        |
+| Название проектов         | Описание                                                                                                                                    | Стек                                         | Паттерны               | Ссылка                                                                      |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------------------------|-----------------------------------------------------------------------------|
+| Algorithmic trading       | Реализация проекта Algorithmic trading в виде десктопного приложения под MacOS на С++.                                                      | C++, QT, clang-format, QCustomPlot, Makefile | MVC, Facade, Singleton | [Посмотреть проект](https://github.com/Aramil326/Algorithmic_trading)       |
+| In memory key-value store | Реализация хранилища ключей и значений в памяти для хранения различных данных о финансовых транзакциях на C++ в виде консольного приложения | C++, clang-format, Makefile                  | MVC                    | [Посмотреть проект](https://github.com/Aramil326/In_memory_key-value_store) |
+| Maze                      | Десктопное приложение, в котором выполняется генерация, отрисовка и решение лабиринтов                                                      | C++, QT, clang-format, QCustomPlot, Makefile | MVC, Facade, Singleton | [Посмотреть проект](https://github.com/Aramil326/Maze)                      |
 
 
