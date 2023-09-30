@@ -89,25 +89,6 @@
 ## Code Wars
 [![codewars](https://www.codewars.com/users/Aramil326/badges/small)](https://www.codewars.com/users/Aramil326)
 
-***
-
-[//]: # (### Статистика)
-
-[//]: # ()
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aramil326&theme=solarized_dark&#41;)
-
-[//]: # ()
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aramil326&theme=solarized_dark&#41;)
-
-[//]: # ()
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aramil326&theme=solarized_dark&#41;)
-
-[//]: # ()
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aramil326&theme=solarized_dark&#41;)
-
-[//]: # ()
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aramil326&theme=solarized_dark&#41;)
-
 
 # Pet-проекты
 
@@ -124,4 +105,8 @@
 | In memory key-value store | Реализация хранилища ключей и значений в памяти для хранения различных данных о финансовых транзакциях на C++ в виде консольного приложения | C++, clang-format, Makefile                  | MVC                    | [Посмотреть проект](https://github.com/Aramil326/In_memory_key-value_store) |
 | Maze                      | Десктопное приложение, в котором выполняется генерация, отрисовка и решение лабиринтов                                                      | C++, QT, clang-format, QCustomPlot, Makefile | MVC, Facade, Singleton | [Посмотреть проект](https://github.com/Aramil326/Maze)                      |
 
+## SQL
 
+| Название проекта     | Описание                                                                                                                               | Стек       | Ссылка                                                                 |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+| SQL_Retail_Analytics | Загрузка данных по аналитике розничных сетей, их простой анализ, статистика, сегментация клиентов и создание персональных предложений. | PostgreSQL | [Посмотреть проект](https://github.com/Aramil326/SQL_Retail_Analytics) |
