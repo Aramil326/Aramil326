@@ -100,6 +100,8 @@
 ## Code Wars
 [![codewars](https://www.codewars.com/users/Aramil326/badges/small)](https://www.codewars.com/users/Aramil326)
 
+## LeetCode
+![LeetCode Stats](https://leetcode.card.workers.dev/Aramil326?theme=dark&font=baloo&extension=null)
 
 # Pet-проекты
 
